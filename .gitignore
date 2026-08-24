@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+whisper-env/
+
+# Audio and temporary runtime files
+*.wav
+*.pid
+*.sock
+/tmp/dictate_*
+/tmp/whisper_*
+
+# OS artifacts
+.DS_Store
+*.swp
+*~
+.idea/
+.vscode/

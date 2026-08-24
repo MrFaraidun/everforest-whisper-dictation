@@ -1,0 +1,11 @@
+[Unit]
+Description=Voice Dictation Pro Floating GUI & Background Daemon
+After=graphical-session.target
+
+[Service]
+ExecStart=/usr/bin/env DISPLAY=:0 /home/faraidun/.local/share/whisper-env/bin/python /home/faraidun/.local/bin/voice_app_gui.py
+Restart=always
+RestartSec=2
+
+[Install]
+WantedBy=default.target

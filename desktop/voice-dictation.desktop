@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Whisper Voice Dictation (Tab)
+Comment=Toggle Voice Dictation (Tab Key)
+Exec=/home/faraidun/.local/bin/dictate_toggle.py
+Icon=audio-input-microphone
+Terminal=false
+Categories=Utility;Audio;
+StartupNotify=false
