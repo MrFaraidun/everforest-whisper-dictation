@@ -17,7 +17,7 @@
 
 <br />
 
-<img src="assets/preview.png" alt="Everforest Dynamic Island Preview" width="620" style="border-radius: 16px;" />
+<img src="assets/demo.gif" alt="Everforest Dynamic Island Live Animation" width="680" style="border-radius: 16px; box-shadow: 0 16px 40px rgba(0,0,0,0.5);" />
 
 <br /><br />
 
